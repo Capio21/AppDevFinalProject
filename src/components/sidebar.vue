@@ -5,12 +5,13 @@
     <body>
        
       <div class="area" ></div>
-      <nav class="main-menu" style="margin-top:58px;">
+      <nav class="main-menu" >
         <ul>
           <li>
             <a href="/">
               <i class="fa fa-home fa-2x"></i>
-              <span class="nav-text">
+              <span class="nav-text"> 
+                
                 Home Page
               </span>
             </a>
@@ -100,20 +101,7 @@
 
     
     </template>
-    <script>
-    export default {
-      data() {
-        return {
-          isSidebarVisible: false, // Initially, the sidebar is hidden
-        };
-      },
-      methods: {
-        toggleSidebar() {
-          this.isSidebarVisible = !this.isSidebarVisible; // Toggle the sidebar visibility
-        },
-      },
-    }
-    </script>
+    
     <style>
     @import '../assets/asset/css/admin.css';
     </style>
