@@ -1,21 +1,18 @@
 <template>
     
 
-    <head>
-        
- 
-        <div class="center-container">
-        <div class="content">
-            <h1>NWOW AMINISTRATOR</h1>
-        </div>
-    </div>
-        
-    
-    </head>
+    <button
+    id="sidebarToggleTop"
+    class="btn btn-link d-md-none rounded-circle mr-3"
+    @click="toggleSidebar"
+  >
+    <i class="fa fa-bars"></i>
+  </button>
     
     <body>
-      <div class="area"></div>
-      <nav class="main-menu">
+       
+      <div class="area" ></div>
+      <nav class="main-menu" style="margin-top:58px;">
         <ul>
           <li>
             <a href="/">
@@ -107,9 +104,23 @@
         </ul>
       </nav>
     </body>
-    
+
     
     </template>
+    <script>
+    export default {
+      data() {
+        return {
+          isSidebarVisible: false, // Initially, the sidebar is hidden
+        };
+      },
+      methods: {
+        toggleSidebar() {
+          this.isSidebarVisible = !this.isSidebarVisible; // Toggle the sidebar visibility
+        },
+      },
+    }
+    </script>
     <style>
     @import '../assets/asset/css/admin.css';
     </style>
