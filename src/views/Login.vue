@@ -1,37 +1,37 @@
 <template>
   <nav class="navbar navbar-dark bg-dark fixed-top">
-    <div class="container-fluid">
-      <a class="navbar-brand" href="/">NWOW E-Bike</a>
-      
-      <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
-        <div class="offcanvas-header">
-          <h5 class="offcanvas-title" id="offcanvasDarkNavbarLabel">NWOW</h5>
-          <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
-        </div>
-        <div class="offcanvas-body">
-          <div class="input-group mb-3">
-            <input type="text" class="form-control" placeholder="Search..." aria-label="Search" aria-describedby="search-button">
-            <button class="btn btn-outline-secondary" type="button" id="search-button">Search</button>
-          </div>
-          <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
-            <li class="nav-item">
-              <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-              <li class="nav-item"><a class="nav-link" href="/About">About</a></li>
-              <li class="nav-item"><a class="nav-link" href="/Contact">Contact</a></li>
-              <li class="nav-item"><a class="nav-link" href="/Product">Product</a></li>
-              <li class="nav-item"><a class="nav-link" href="/Login">Sign-up</a></li>
-              <li class="nav-item"><a class="nav-link" href="/FAQ">-FAQ</a></li>
-            </li>
-            <li class="nav-item">
-            </li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </nav>
+                <div class="container-fluid">
+                  <a class="navbar-brand" href="/">NWOW E-Bike</a>
+                  
+                  <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasDarkNavbar" aria-controls="offcanvasDarkNavbar" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                  </button>
+                  <div class="offcanvas offcanvas-end text-bg-dark" tabindex="-1" id="offcanvasDarkNavbar" aria-labelledby="offcanvasDarkNavbarLabel">
+                    <div class="offcanvas-header">
+                      <h5 class="offcanvas-title" id="offcanvasDarkNavbarLabel">NWOW</h5>
+                      <button type="button" class="btn-close btn-close-white" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                    </div>
+                    <div class="offcanvas-body">
+                      <div class="input-group mb-3">
+                        <input type="text" class="form-control" placeholder="Search..." aria-label="Search" aria-describedby="search-button">
+                        <button class="btn btn-outline-secondary" type="button" id="search-button">Search</button>
+                      </div>
+                      <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                        <li class="nav-item">
+                          <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
+                          
+                          <li class="nav-item"><a class="nav-link" href="/Contact">Contact</a></li>
+                          
+                          <li class="nav-item"><a class="nav-link" href="/Login">Sign-up</a></li>
+                          
+                        </li>
+                        <li class="nav-item">
+                        </li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </nav>
     <section class="h-100 gradient-form" style="background-color: #4a4949;">
   <div class="container py-5 h-100">
     <div class="row d-flex justify-content-center align-items-center h-100">

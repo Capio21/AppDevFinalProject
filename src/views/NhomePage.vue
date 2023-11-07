@@ -34,11 +34,11 @@
                       <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                         <li class="nav-item">
                           <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-                          <li class="nav-item"><a class="nav-link" href="/About">About</a></li>
+                          
                           <li class="nav-item"><a class="nav-link" href="/Contact">Contact</a></li>
-                          <li class="nav-item"><a class="nav-link" href="/Product">Product</a></li>
+                          
                           <li class="nav-item"><a class="nav-link" href="/Login">Sign-up</a></li>
-                          <li class="nav-item"><a class="nav-link" href="/FAQ">-FAQ</a></li>
+                          
                         </li>
                         <li class="nav-item">
                         </li>
@@ -62,8 +62,8 @@
                         <h1 class="display-5 fw-bolder text-white mb-2">NWOW E-Bike Shop-Lalud</h1>
                         <p class="lead fw-normal text-white-50 mb-4">Easy to BUY Easy to RIDE!</p>
                         <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
-                            <a class="btn btn-dark btn-lg px-4 me-sm-3" href="/BestSeller">Popular Products</a>
-                            <a class="btn btn-dark btn-lg px-4" href="/ProductPrice">Price Range</a>
+                            <a class="btn btn-secondary btn-lg px-4 me-sm-3" href="/Admin">Administrator</a>
+                            <a class="btn btn-secondary btn-lg px-4" href="/Payment">Payment History</a>
                         </div>
                         </div>
                     </div>

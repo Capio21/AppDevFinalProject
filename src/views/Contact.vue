@@ -34,11 +34,11 @@
                       <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                         <li class="nav-item">
                           <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-                          <li class="nav-item"><a class="nav-link" href="/About">About</a></li>
+                          
                           <li class="nav-item"><a class="nav-link" href="/Contact">Contact</a></li>
-                          <li class="nav-item"><a class="nav-link" href="/Product">Product</a></li>
+                          
                           <li class="nav-item"><a class="nav-link" href="/Login">Sign-up</a></li>
-                          <li class="nav-item"><a class="nav-link" href="/FAQ">-FAQ</a></li>
+                          
                         </li>
                         <li class="nav-item">
                         </li>
