@@ -11,12 +11,14 @@ import topbar from '../components/topbar.vue'
 export default defineComponent({
  components:{
   sidebar,
-  topbar
+  topbar,
+  
  },
  
 created(){
   console.log(sidebar);
   console.log(topbar);
+  
 }
 });
 </script>

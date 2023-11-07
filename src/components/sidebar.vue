@@ -1,14 +1,7 @@
 <template>
     
 
-    <button
-    id="sidebarToggleTop"
-    class="btn btn-link d-md-none rounded-circle mr-3"
-    @click="toggleSidebar"
-  >
-    <i class="fa fa-bars"></i>
-  </button>
-    
+   
     <body>
        
       <div class="area" ></div>
@@ -18,7 +11,7 @@
             <a href="/">
               <i class="fa fa-home fa-2x"></i>
               <span class="nav-text">
-                Community Dashboard
+                Home Page
               </span>
             </a>
     
@@ -94,7 +87,7 @@
     
         <ul class="logout">
           <li>
-            <a href="#">
+            <a href="/Login">
               <i class="fa fa-power-off fa-2x"></i>
               <span class="nav-text">
                 Logout

@@ -2,8 +2,8 @@
      
 
     <!-- Topbar -->
-    <nav class="navbar navbar-expand navbar-light" :class="{ 'bg-white': !isSidebarVisible, 'bg-custom': isSidebarVisible }">
     
+    <nav class="navbar navbar-expand navbar-light bg-white topbar mb-4 static-top shadow ">
 
         <!-- Sidebar Toggle (Topbar) -->
         <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
@@ -205,20 +205,7 @@
 
     </nav>
 </template>
-<script>
-export default {
-  data() {
-    return {
-      isSidebarVisible: false, // Initially, the sidebar is hidden
-    };
-  },
-  methods: {
-    toggleSidebar() {
-      this.isSidebarVisible = !this.isSidebarVisible; // Toggle the sidebar visibility
-    },
-  },
-}
-</script>
+
   <style>
     /* Custom CSS styles for the topbar and its elements */
   
