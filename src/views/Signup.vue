@@ -40,9 +40,10 @@
         <div class="card card-registration my-4">
           <div class="row g-0">
             <div class="col-xl-6 d-none d-xl-block">
-                <div class="container">
-    <img :src="require('@/assets/asset/css/logo.png')" alt="Centered Logo" class="centered-image">
- </div>
+              <div class="container">
+    <img :src="require('@/assets/asset/css/logo.png')" alt="Centered Logo" class="centered-image" id="responsive-image">
+</div>
+
                 
             </div>
             <div class="col-xl-6">

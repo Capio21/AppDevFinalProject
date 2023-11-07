@@ -1,4 +1,5 @@
 <template>
+  
   <nav class="navbar navbar-dark bg-dark fixed-top">
                 <div class="container-fluid">
                   <a class="navbar-brand" href="/">NWOW E-Bike</a>
@@ -32,84 +33,76 @@
                   </div>
                 </div>
               </nav>
-    <section class="h-100 gradient-form" style="background-color: #4a4949;">
-  <div class="container py-5 h-100">
-    <div class="row d-flex justify-content-center align-items-center h-100">
-      <div class="col-xl-10">
-        <div class="card rounded-3 text-black">
-          <div class="row g-0">
-            <div class="col-lg-6">
-              <div class="card-body p-md-5 mx-md-4">
-
-                <div class="text-center">
-                 
-                  <h4 class="mt-1 mb-5 pb-1">We are The NWOW Team kasi ediwow</h4>
+              <div class="container d-flex justify-content-center align-items-center" style="min-height: 100vh;">
+    <!-- Section: Design Block -->
+    <section class="text-center text-lg-start">
+      <div class="card mb-3">
+        <div class="row g-0 d-flex align-items-center">
+          <div class="col-lg-4 d-none d-lg-flex">
+            <img src="https://tse1.mm.bing.net/th?id=OIP.ZjUqDl7uXOFCE55kYXTQkQAAAA&pid=Api&P=0&h=220" alt="Trendy Pants and Shoes" class="w-100 rounded-t-5 rounded-tr-lg-0 rounded-bl-lg-5" style="margin-left:20px;"/>
+          </div>
+          <div class="col-lg-8">
+            <div class="card-body py-5 px-md-5">
+              <form>
+                <!-- Email input -->
+                <div class="form-outline mb-4">
+                  <input type="email" id="form2Example1" class="form-control" />
+                  <label class="form-label" for="form2Example1">Admin</label>
                 </div>
 
-                <form>
-                  <p>Please login to your account</p>
+                <!-- Password input -->
+                <div class="form-outline mb-4">
+                  <input type="password" id="form2Example2" class="form-control" />
+                  <label class="form-label" for="form2Example2">Password</label>
+                </div>
 
-                  <div class="form-outline mb-4">
-                    <input type="email" id="form2Example11" class="form-control"
-                      placeholder="Phone number or email address" />
-                    <label class="form-label" for="form2Example11">Username</label>
+                <!-- 2 column grid layout for inline styling -->
+                <div class="row mb-4">
+                  <div class="col d-flex justify-content-center align-items-center">
+                    <!-- Checkbox -->
+                    <div class="form-check">
+                      <input class="form-check-input" type="checkbox" value="" id="form2Example31" checked />
+                      <label class="form-check-label" for="form2Example31"> Remember me </label>
+                    </div>
                   </div>
 
-                  <div class="form-outline mb-4">
-                    <input type="password" id="form2Example22" class="form-control" />
-                    <label class="form-label" for="form2Example22">Password</label>
+                  <div class="col text-center">
+                    <!-- Simple link -->
+                    <a href="#!">Forgot password?</a>
                   </div>
+                </div>
 
-                  <div class="text-center pt-1 mb-5 pb-1">
-                    <button class="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3" type="button">Log
-                      in</button> <br>
-                    <a class="text-muted" href="#!">Forgot password?</a>
-                  </div>
-
-                  <div class="d-flex align-items-center justify-content-center pb-4">
-                    <p class="mb-0 me-2">Don't have an account?</p>
-                    <router-link to="/Signup">
-                    <button type="button"  class="btn btn-outline-danger" >Create new</button>
-                    </router-link>
-
-                    
-                  </div>
-
-                </form>
-
-              </div>
-            </div>
-            <div class="col-lg-6 d-flex align-items-center gradient-custom-2">
-              <div class="container">
-    <img :src="require('@/assets/asset/css/logo.png')" alt="Centered Logo" class="centered-image">
- </div>
+                <!-- Submit button -->
+                <button type="button" class="btn btn-primary btn-block mb-4">Sign in</button>
+              </form>
             </div>
           </div>
         </div>
       </div>
-    </div>
+    </section>
   </div>
-</section>
+<!-- Section: Design Block -->
+    
 </template>
 <style>
-@import'../assets/asset/css/login.css';
-@import'../assets/asset/css/nfront.css';
-.container {
- position: relative;
- width: 100%;
- height: 100%;
- 
-}
 
-.centered-image {
- position: absolute;
- top: 50%;
- left: 50%;
- transform: translate(-50%, -50%) ;
- width: 50%; /* You can adjust this to fit your design */
- height: auto;
- z-index: 1; /* Make sure the image is above any other elements */
- pointer-events: none; /* Allows clicking through the image */
- 
-}
+@import'../assets/asset/css/nfront.css';
+
+
+
+    .rounded-t-5 {
+      border-top-left-radius: 0.1rem;
+      border-top-right-radius: 0.1rem;
+    }
+
+    @media (min-width: 992px) {
+      .rounded-tr-lg-0 {
+        border-top-right-radius: 1234;
+      }
+
+      .rounded-bl-lg-5 {
+        border-bottom-left-radius: 0.5rem;
+      }
+    }
+  
 </style>
