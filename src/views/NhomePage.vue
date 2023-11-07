@@ -68,7 +68,7 @@
 </svg>
                                 Administrator
                             </a>
-                            <a class="btn btn-secondary btn-lg px-4 " href="/Payment history">
+                            <a class="btn btn-secondary btn-lg px-4 " href="/Payment">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" fill="currentColor" class="bi bi-clock-history" viewBox="1 0 14 17">
   <path d="M8.515 1.019A7 7 0 0 0 8 1V0a8 8 0 0 1 .589.022l-.074.997zm2.004.45a7.003 7.003 0 0 0-.985-.299l.219-.976c.383.086.76.2 1.126.342l-.36.933zm1.37.71a7.01 7.01 0 0 0-.439-.27l.493-.87a8.025 8.025 0 0 1 .979.654l-.615.789a6.996 6.996 0 0 0-.418-.302zm1.834 1.79a6.99 6.99 0 0 0-.653-.796l.724-.69c.27.285.52.59.747.91l-.818.576zm.744 1.352a7.08 7.08 0 0 0-.214-.468l.893-.45a7.976 7.976 0 0 1 .45 1.088l-.95.313a7.023 7.023 0 0 0-.179-.483zm.53 2.507a6.991 6.991 0 0 0-.1-1.025l.985-.17c.067.386.106.778.116 1.17l-1 .025zm-.131 1.538c.033-.17.06-.339.081-.51l.993.123a7.957 7.957 0 0 1-.23 1.155l-.964-.267c.046-.165.086-.332.12-.501zm-.952 2.379c.184-.29.346-.594.486-.908l.914.405c-.16.36-.345.706-.555 1.038l-.845-.535zm-.964 1.205c.122-.122.239-.248.35-.378l.758.653a8.073 8.073 0 0 1-.401.432l-.707-.707z"/>
   <path d="M8 1a7 7 0 1 0 4.95 11.95l.707.707A8.001 8.001 0 1 1 8 0v1z"/>
@@ -133,16 +133,10 @@
                     <div class="row gx-5 justify-content-center">
                         <div class="col-lg-10 col-xl-7">
                             <div class="text-center">
-                                <div class="fs-4 mb-4 fst-italic">"Ms. Powers has served as the Chairman of NW Bio since 2007, and as CEO
-                                     since 2011. Ms. Powers previously served as a Managing Director of Toucan Capital Fund II, 
-                                    an investment fund focused on regenerative medicine and immune therapies, from 2001 to 2010.<br>"</div>
+                                <div class="fs-4 mb-4 fst-italic">NWOW International is a company specializes in manufacturing electric 
+                                    bicycle with high-quality parts for continuous innovation and 
+                                    development operation of state of the art electric bicycle distributors.</div>
                                 <div class="d-flex align-items-center justify-content-center">
-                                    <img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
-                                    <div class="fw-bold">
-                                        Ms. Power.
-                                        <span class="fw-bold text-gradient mx-1">/</span>
-                                        CEO, Pomodoro
-                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -221,7 +215,7 @@
                                 <div class="card-body p-4">
                                     <div class="badge bg-gradient bg-gradient rounded-pill mb-2">News</div>
                                     <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">NWOW GC10</h5></a>
-                                    <p class="card-text mb-0">Some more quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <p class="card-text mb-0">NWOW GC10 has 3 Level Shift Gear near accelerator which allows users to adjust the level of assistance provided by the electric motor.</p>
                                 </div>
                                 <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                     <div class="d-flex align-items-end justify-content-between">
@@ -260,7 +254,7 @@
         <footer class="bg-dark py-4 mt-auto">
             <div class="container px-5">
                 <div class="row align-items-center justify-content-between flex-column flex-sm-row">
-                    <div class="col-auto"><div class="small m-0 text-white"> AppDev Project &copy; Allan - John loyd - Cris</div></div>
+                    <div class="col-auto"><div class="small m-0 text-white"> AppDev Project &copy; Allan - John Loyd - Criz</div></div>
                     <div class="col-auto">
                         <a class="link-light small" href="/">Privacy</a>
                         <span class="text-white mx-1">&middot;</span>
