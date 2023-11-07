@@ -133,16 +133,10 @@
                     <div class="row gx-5 justify-content-center">
                         <div class="col-lg-10 col-xl-7">
                             <div class="text-center">
-                                <div class="fs-4 mb-4 fst-italic">"Ms. Powers has served as the Chairman of NW Bio since 2007, and as CEO
-                                     since 2011. Ms. Powers previously served as a Managing Director of Toucan Capital Fund II, 
-                                    an investment fund focused on regenerative medicine and immune therapies, from 2001 to 2010.<br>"</div>
+                                <div class="fs-4 mb-4 fst-italic">NWOW International is a company specializes in manufacturing electric 
+                                    bicycle with high-quality parts for continuous innovation and 
+                                    development operation of state of the art electric bicycle distributors.</div>
                                 <div class="d-flex align-items-center justify-content-center">
-                                    <img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
-                                    <div class="fw-bold">
-                                        Ms. Power.
-                                        <span class="fw-bold text-gradient mx-1">/</span>
-                                        CEO, Pomodoro
-                                    </div>
                                 </div>
                             </div>
                         </div>
@@ -221,7 +215,7 @@
                                 <div class="card-body p-4">
                                     <div class="badge bg-gradient bg-gradient rounded-pill mb-2">News</div>
                                     <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">NWOW GC10</h5></a>
-                                    <p class="card-text mb-0">Some more quick example text to build on the card title and make up the bulk of the card's content.</p>
+                                    <p class="card-text mb-0">NWOW GC10 has 3 Level Shift Gear near accelerator which allows users to adjust the level of assistance provided by the electric motor.</p>
                                 </div>
                                 <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
                                     <div class="d-flex align-items-end justify-content-between">
@@ -260,7 +254,7 @@
         <footer class="bg-dark py-4 mt-auto">
             <div class="container px-5">
                 <div class="row align-items-center justify-content-between flex-column flex-sm-row">
-                    <div class="col-auto"><div class="small m-0 text-white"> AppDev Project &copy; Allan - John loyd - Cris</div></div>
+                    <div class="col-auto"><div class="small m-0 text-white"> AppDev Project &copy; Allan - John Loyd - Criz</div></div>
                     <div class="col-auto">
                         <a class="link-light small" href="/">Privacy</a>
                         <span class="text-white mx-1">&middot;</span>
