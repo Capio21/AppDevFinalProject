@@ -122,3 +122,6 @@
 
 </ul>
 </template>
+export default{
+    name:'sidebar'
+}

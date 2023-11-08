@@ -538,3 +538,6 @@
 
 </div>
 </template>
+export default{
+    name:'topbar',
+}
