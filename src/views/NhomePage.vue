@@ -59,7 +59,7 @@
                     <div class="col-xl-5 col-xxl-6 text-center"> <img class="img-fluid rounded-3 my-5" src="https://scontent-mnl1-1.xx.fbcdn.net/v/t39.30808-6/373000786_782228653911772_2179764752740698211_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGL58o1H2I5BoR9DJE_sRaRh_ak1sX-dQ2H9qTWxf51DQRw21Ss_PW7P0WfXP7hmAquUPyz9RgmwcKd-At5V_Bp&_nc_ohc=-UwP3J0RufcAX-ElZlr&_nc_ht=scontent-mnl1-1.xx&oh=00_AfADs21YVjuJGwQEXRE8X4l5t3SyZBePiYocRs4AI11-pw&oe=654D00A4" alt="..." /></div>
                     <div class="col-lg-8 col-xl-7 col-xxl-6">
                         <div class="my-5 text-center text-xl-start">
-                        <h1 class="display-5 fw-bolder text-white mb-2">NWOW E-Bike Shop-Lalud</h1>
+                        <h1 class="display-5 fw-bolder text-white mb-2">NWOW E-Bike Shop-Camilmil</h1>
                         <p class="lead fw-normal text-white-50 mb-4">Easy to BUY Easy to RIDE!</p>
                         <div class="d-grid gap-3 d-sm-flex justify-content-sm-center justify-content-xl-start">
                             <a class="btn btn-secondary btn-lg px-4 me-sm-3" href="/Admin" >
@@ -85,170 +85,88 @@
   </div>
             </header>
             <!-- Features section-->
-            <section class="py-5" id="features">
-                <div class="container px-5 my-5">
-                    <div class="row gx-5">
-                        <div class="col-lg-4 mb-5 mb-lg-0"><h2 class="fw-bolder mb-0">A better way and a <br>
-                             time better to buy E-Bike.</h2></div>
-                        <div class="col-lg-8">
-                            <div class="row gx-5 row-cols-1 row-cols-md-2">
-                                <div class="col mb-5 h-100">
-                                    <div class="feature bg-blue bg-gradient text-white rounded-3 mb-3"><i class="bi bi-collection"></i></div>
-                                    <h2 class="h5">Eco-Friendly</h2>
-                                    <p class="mb-0">Having an electric bicycle also comes with relatively low maintenance and fuel expenses.
-                                         You don’t have to fill it up with gas once a week, and you also don’t have to spend money on finding a parking spot. In addition to this, 
-                                        when compared to maintaining other vehicles, the costs of maintaining an electric bicycle are pretty low. <br></p>
-                                </div>
-                                <div class="col mb-5 h-100">
-                                    <div class="feature bg-blue bg-gradient text-white rounded-3 mb-3"><i class="bi bi-building"></i></div>
-                                    <h2 class="h5">Safety first</h2>
-                                    <p class="mb-0">Paragraph of text beneath the heading to explain the heading. Here is just a bit more text.</p>
-                                </div>
-                                <div class="col mb-5 mb-md-0 h-100">
-                                    <div class="feature bg-blue bg-gradient text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
-                                    <h2 class="h5">Simple to Use</h2>
-                                    <p class="mb-0">Another great benefit of e-bikes is they are easy to use. You don’t need a driver’s license or license plate, and you don’t even have to learn how to pedal to get around the city.
-
-                                        Instead, the electric bike will automatically start when you push its pedals down, making it easy to arrive from point A to point B 
-                                        without even thinking about it. This means that you are saving yourself time and money on gas or other 
-                                        types of transportation; you will also be able to get around town a lot quicker than by driving your car or motorcycle in traffic. <br>
-                                    </p>
-                                </div>
-                                <div class="col h-100">
-                                    <div class="feature bg-blue bg-gradient text-white rounded-3 mb-3"><i class="bi bi-toggles2"></i></div>
-                                    <h2 class="h5"> Sustainable Transportation</h2>
-                                    <p class="mb-0">Electric vehicles are much better for the environment than gas-powered ones. You can dramatically reduce your carbon footprint by deciding to go to work on an electric bicycle. 
-                                        By switching to electric power, you may remove another potentially harmful aspect: 
-                                        the pollution caused by gas burning.<br>
-                                    </p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </section>
+            
             <!-- Testimonial section-->
-            <div class="py-5 bg-light">
-                <div class="container px-5 my-5">
-                    <div class="row gx-5 justify-content-center">
-                        <div class="col-lg-10 col-xl-7">
-                            <div class="text-center">
-                                <div class="fs-4 mb-4 fst-italic">NWOW International is a company specializes in manufacturing electric 
-                                    bicycle with high-quality parts for continuous innovation and 
-                                    development operation of state of the art electric bicycle distributors.</div>
-                                <div class="d-flex align-items-center justify-content-center">
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
+           
             <!-- Blog preview section-->
             <section class="py-5">
-                <div class="container px-5 my-5">
-                    <div class="row gx-5 justify-content-center">
-                        <div class="col-lg-8 col-xl-6">
-                            <div class="text-center">
-                                <h2 class="fw-bolder">Sample of our Eco-Bike Product.</h2>
-                                <p class="lead fw-normal text-muted mb-5"></p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="row gx-5">
-                        <div class="col-lg-4 mb-5">
-                            <div class="card h-100 shadow border-0">
-                                <img class="card-img-top" src="https://prof562e926-pic5.ysjianzhan.cn/upload/ERVS2_osa5.jpg" alt="..." />
-                                <div class="card-body p-4">
-                                    <div class="badge bg-gradient bg-gradient rounded-pill mb-2">News</div>
-                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">Electric Tricycle 
-                                        <br>
-                                        W series and D series 
-                                    </h5></a>
-                                    <p class="card-text mb-0">NWOW ERVS2
-                                        <br>
-                                        <br>NWOW-ERVS2: Eletric Tricycle for Adults and Seniors,hot-sale recreational tricycle with back riders,
-                                         good for family use and passenger carrying; three wheels and low speed ensures safety; easy to operate 
-                                         for all the ages, even for the disabled; the roof and body cover ensures to travel in all weathers; 
-                                         reverse mode makes parking easy; big saddle and high-performance suspension makes driving comfortable;
-                                          back basket can hold personal belongings, three colors available, perfect choice for family.<br>
+    <div class="container px-5 my-5">
+        <div class="row gx-5 justify-content-center">
+            <div class="col-lg-4 mb-5 text-center">
+    <div class="card h-100 shadow border-0">
+        <img class="card-img-top" src="https://image.made-in-china.com/45f3j00HEAYpLTWVMcG/Folding-3-Wheel-Adult-Smart-Motorcycle-Electric-E-Trike-for-Sale-Philippine.jpg" alt="..." />
+        <div class="card-body p-4">
+            <div class="badge bg-gradient bg-gradient rounded-pill mb-2">News</div>
+            <a class="text-decoration-none link-dark stretched-link" href="/ListEbike"><h5 class="card-title mb-3">Electric Tricycle</h5></a>
+            <div class="text-center">
+                <a class="btn btn-secondary btn-lg px-4 me-sm-3" href="/ListEbike">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="25" fill="currentColor" class="bi bi-bar-chart-fill" viewBox="1 2 16 16">
+                        <path d="M1 11a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-3zm5-4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V7zm5-5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1V2z"/>
+                    </svg>
+                    List of E-Bike 
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
 
-                                    </p>
-                                </div>
-                                <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
-                                    <div class="d-flex align-items-end justify-content-between">
-                                        <div class="d-flex align-items-center">
-                                            <img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
-                                            <div class="small">
-                                                <div class="fw-bold"></div>
-                                                <div class="text-muted"> &middot; </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mb-5">
-                            <div class="card h-100 shadow border-0">
-                                <img class="card-img-top" src="https://prof562e926-pic5.ysjianzhan.cn/upload/EMC-GOIF2.jpg" alt="..." />
-                                <div class="card-body p-4">
-                                    <div class="badge bg-gradient bg-gradient rounded-pill mb-2">Media</div>
-                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">NWOW EMC GOLF</h5></a>
-                                    <p class="card-text mb-0">An electric golf eBike, often referred to as an electric golf cart or eGolf cart, is a specialized electric vehicle designed
-                                         for golfers to navigate golf courses. Here's a description of what such a product might entail</p>
-                                </div>
-                                <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
-                                    <div class="d-flex align-items-end justify-content-between">
-                                        <div class="d-flex align-items-center">
-                                            <img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
-                                            <div class="small">
-                                                <div class="fw-bold"></div>
-                                                <div class="text-muted"> &middot; </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-4 mb-5">
-                            <div class="card h-100 shadow border-0">
-                                <img class="card-img-top" src="https://prof562e926-pic5.ysjianzhan.cn/upload/GB2_pxmu.jpg" alt="..." />
-                                <div class="card-body p-4">
-                                    <div class="badge bg-gradient bg-gradient rounded-pill mb-2">News</div>
-                                    <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">NWOW GC10</h5></a>
-                                    <p class="card-text mb-0">NWOW GC10 has 3 Level Shift Gear near accelerator which allows users to adjust the level of assistance provided by the electric motor.</p>
-                                </div>
-                                <div class="card-footer p-4 pt-0 bg-transparent border-top-0">
-                                    <div class="d-flex align-items-end justify-content-between">
-                                        <div class="d-flex align-items-center">
-                                            <img class="rounded-circle me-3" src="https://dummyimage.com/40x40/ced4da/6c757d" alt="..." />
-                                            <div class="small">
-                                                <div class="fw-bold"></div>
-                                                <div class="text-muted"> &middot; </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <!-- Call to action-->
-                    <aside class="bg-blue bg-gradient rounded-3 p-4 p-sm-5 mt-5">
-                        <div class="d-flex align-items-center justify-content-between flex-column flex-xl-row text-center text-xl-start">
-                            <div class="mb-4 mb-xl-0">
-                                <div class="fs-3 fw-bold text-white">New products, delivered to you.</div>
-                                <div class="text-white-50">Sign up for our newsletter for the latest updates.</div>
-                            </div>
-                            <div class="ms-xl-4">
-                                <div class="input-group mb-2">
-                                    <input class="form-control" type="text" placeholder="Email address..." aria-label="Email address..." aria-describedby="button-newsletter" />
-                                    <button class="btn btn-outline-light" id="button-newsletter" type="button">Sign up</button>
-                                </div>
-                                <div class="small text-white-50">We care about privacy, and will never share your data.</div>
-                            </div>
-                        </div>
-                    </aside>
+<div class="col-lg-4 mb-5 text-center">
+    <div class="card h-100 shadow border-0">
+        <img class="card-img-top mt-16" src="https://64-bit.co.uk/wp-content/uploads/2017/04/pc-mechanic-icon.png" alt="..." />
+        <div class="card-body p-4">
+            <div class="badge bg-gradient bg-gradient rounded-pill mb-2">News</div>
+            <a class="text-decoration-none link-dark stretched-link" href="/Assignment"><h5 class="card-title mb-3">Mechanics Assignment</h5></a>
+            <div class="text-center">
+                <a class="btn btn-secondary btn-lg px-4 me-sm-3" href="/Assignment">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="25" fill="currentColor" class="bi bi-bar-chart-fill" viewBox="1 2 16 16">
+                        <path d="M1 11a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-3zm5-4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V7zm5-5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1V2z"/>
+                    </svg>
+                    Mechanics Assignment
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="col-lg-4 mb-5 text-center">
+    <div class="card h-100 shadow border-0">
+        <img class="card-img-top" src="http://wholesaleeventtents.com/wp-content/uploads/2016/04/500-Watt-26-Inch-Rear-Wheel-Electric-Bicycle-Motor-Kit.jpg" alt="..." />
+        <div class="card-body p-4">
+            <div class="badge bg-gradient bg-gradient rounded-pill mb-2">News</div>
+            <a class="text-decoration-none link-dark stretched-link" href="#!"><h5 class="card-title mb-3">E-Bike Parts</h5></a>
+            <div class="text-center">
+                <a class="btn btn-secondary btn-lg px-4 me-sm-3" href="/Admin">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="30" height="25" fill="currentColor" class="bi bi-bar-chart-fill" viewBox="1 2 16 16">
+                        <path d="M1 11a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v3a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1v-3zm5-4a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v7a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V7zm5-5a1 1 0 0 1 1-1h2a1 1 0 0 1 1 1v12a1 1 0 0 1-1 1h-2a1 1 0 0 1-1-1V2z"/>
+                    </svg>
+                   E-Bike Parts
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div>
+        <!-- Call to action-->
+        <aside class="bg-blue bg-gradient rounded-3 p-4 p-sm-5 mt-5">
+            <div class="d-flex align-items-center justify-content-between flex-column flex-xl-row text-center text-xl-start">
+                <div class="mb-4 mb-xl-0">
+                    <div class="fs-3 fw-bold text-white">New products, delivered to you.</div>
+                    <div class="text-white-50">Sign up for our newsletter for the latest updates.</div>
                 </div>
-            </section>
+                <div class="ms-xl-4">
+                    <div class="input-group mb-2">
+                        <input class="form-control" type="text" placeholder="Email address..." aria-label="Email address..." aria-describedby="button-newsletter" />
+                        <button class="btn btn-outline-light" id="button-newsletter" type="button">Sign up</button>
+                    </div>
+                    <div class="small text-white-50">We care about privacy and will never share your data.</div>
+                </div>
+            </div>
+        </aside>
+    </div>
+</section>
+
         </main>
         <!-- Footer-->
         <footer class="bg-dark py-4 mt-auto">

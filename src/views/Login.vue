@@ -23,7 +23,7 @@
                           
                           <li class="nav-item"><a class="nav-link" href="/Contact">Contact</a></li>
                           
-                          <li class="nav-item"><a class="nav-link" href="/Login">Sign-up</a></li>
+                          <li class="nav-item"><a class="nav-link" href="/Signup">Sign-up</a></li>
                           
                         </li>
                         <li class="nav-item">
