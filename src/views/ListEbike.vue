@@ -2,27 +2,28 @@
     <div>
       <nav class="navbar navbar-dark bg-dark fixed-top">
         <!-- ... (your navigation code) ... -->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-    <div class="container">
-      <router-link to="/" class="navbar-brand">NWOW E-Bike</router-link>
-      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-      <div class="collapse navbar-collapse" id="navbarNav">
-        <ul class="navbar-nav ml-auto">
-          <li class="nav-item">
-            <router-link to="/" class="nav-link">Home</router-link>
-          </li>
-          <li class="nav-item">
-            <router-link to="/Contact" class="nav-link">Contact</router-link>
-          </li>
-          <li class="nav-item">
-            <router-link to="/Signin" class="nav-link">Sign In</router-link>
-          </li>
-        </ul>
-      </div>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+  <div class="container">
+    <router-link to="/" class="navbar-brand">NWOW E-Bike</router-link>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav ml-auto"> <!-- Use "ml-auto" to align links to the right -->
+        <li class="nav-item">
+          <router-link to="/" class="nav-link">Home</router-link>
+        </li>
+        <li class="nav-item">
+          <router-link to="/Contact" class="nav-link">Contact</router-link>
+        </li>
+        <li class="nav-item">
+          <router-link to="/Signin" class="nav-link">Sign In</router-link>
+        </li>
+      </ul>
     </div>
-  </nav>
+  </div>
+</nav>
+
 
       </nav>
   <br>
