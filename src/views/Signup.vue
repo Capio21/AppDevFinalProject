@@ -51,7 +51,7 @@
                 <h3 class="mb-5 text-uppercase"> Registration Form</h3>
 
                 <div class="row d-flex justify-content-center">
-                  <div class="col-7 mb-2">
+                  <div class="col-10 mb-2">
                     <div class="form-outline">
                       <input type="email" id="email" class="form-control form-control-lg" placeholder="name@example.com" required/>
                       <label class="form-label" for="email">Email</label>
@@ -60,7 +60,7 @@
                 </div> 
 
                 <div class="row d-flex justify-content-center">
-                  <div class="col-7 mb-2">
+                  <div class="col-10 mb-2">
                     <div class="form-outline">
                       <input type="text" id="username" class="form-control form-control-lg" required/>
                       <label class="form-label" for="username">Username</label>
@@ -69,7 +69,7 @@
                 </div> 
 
                 <div class="row d-flex justify-content-center">
-                  <div class="col-7 mb-2">
+                  <div class="col-10 mb-2">
                     <div class="form-outline">
                       <input type="password" id="password" class="form-control form-control-lg" required/>
                       <label class="form-label" for="password">Password</label>
@@ -78,7 +78,7 @@
                 </div>
 
                 <div class="row d-flex justify-content-center">
-                  <div class="col-7 mb-2">
+                  <div class="col-10 mb-2">
                     <div class="form-outline">
                       <input type="password" id="repassword" class="form-control form-control-lg" required/>
                       <label class="form-label" for="repassword">Re-type Password</label>
