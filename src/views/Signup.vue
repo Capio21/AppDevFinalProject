@@ -50,102 +50,48 @@
               <div class="card-body p-md-5 text-black">
                 <h3 class="mb-5 text-uppercase"> Registration Form</h3>
 
-                <div class="row">
-                  <div class="col-md-6 mb-4">
+                <div class="row d-flex justify-content-center">
+                  <div class="col-7 mb-2">
                     <div class="form-outline">
-                      <input type="text" id="form3Example1m" class="form-control form-control-lg" />
-                      <label class="form-label" for="form3Example1m">First name</label>
+                      <input type="email" id="email" class="form-control form-control-lg" placeholder="name@example.com" required/>
+                      <label class="form-label" for="email">Email</label>
                     </div>
                   </div>
-                  <div class="col-md-6 mb-4">
-                    <div class="form-outline">
-                      <input type="text" id="form3Example1n" class="form-control form-control-lg" />
-                      <label class="form-label" for="form3Example1n">Last name</label>
-                    </div>
-                  </div>
-                </div>
+                </div> 
 
-                <div class="row">
-                  <div class="col-md-6 mb-4">
+                <div class="row d-flex justify-content-center">
+                  <div class="col-7 mb-2">
                     <div class="form-outline">
-                      <input type="text" id="form3Example1m1" class="form-control form-control-lg" />
-                      <label class="form-label" for="form3Example1m1">Mother's name</label>
+                      <input type="text" id="username" class="form-control form-control-lg" required/>
+                      <label class="form-label" for="username">Username</label>
                     </div>
                   </div>
-                  <div class="col-md-6 mb-4">
+                </div> 
+
+                <div class="row d-flex justify-content-center">
+                  <div class="col-7 mb-2">
                     <div class="form-outline">
-                      <input type="text" id="form3Example1n1" class="form-control form-control-lg" />
-                      <label class="form-label" for="form3Example1n1">Father's name</label>
+                      <input type="password" id="password" class="form-control form-control-lg" required/>
+                      <label class="form-label" for="password">Password</label>
                     </div>
                   </div>
                 </div>
 
-                <div class="form-outline mb-4">
-                  <input type="text" id="form3Example8" class="form-control form-control-lg" />
-                  <label class="form-label" for="form3Example8">Address</label>
-                </div>
-
-                <div class="d-md-flex justify-content-start align-items-center mb-4 py-2">
-
-                  <h6 class="mb-0 me-4">Gender: </h6>
-
-                  <div class="form-check form-check-inline mb-0 me-4">
-                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="femaleGender"
-                      value="option1" />
-                    <label class="form-check-label" for="femaleGender">Female</label>
+                <div class="row d-flex justify-content-center">
+                  <div class="col-7 mb-2">
+                    <div class="form-outline">
+                      <input type="password" id="repassword" class="form-control form-control-lg" required/>
+                      <label class="form-label" for="repassword">Re-type Password</label>
+                    </div>
                   </div>
-
-                  <div class="form-check form-check-inline mb-0 me-4">
-                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="maleGender"
-                      value="option2" />
-                    <label class="form-check-label" for="maleGender">Male</label>
-                  </div>
-
-                  <div class="form-check form-check-inline mb-0">
-                    <input class="form-check-input" type="radio" name="inlineRadioOptions" id="otherGender"
-                      value="option3" />
-                    <label class="form-check-label" for="otherGender">Other</label>
-                  </div>
-
-                </div>
-
-                <div class="row">
-                  <div class="col-md-6 mb-4">
-
-                    <select class="select">
-                      <option value="1">State</option>
-                      <option value="2">Option 1</option>
-                      <option value="3">Option 2</option>
-                      <option value="4">Option 3</option>
-                    </select>
-
-                  </div>
-                  <div class="col-md-6 mb-4">
-
-                    <select class="select">
-                      <option value="1">City</option>
-                      <option value="2">Option 1</option>
-                      <option value="3">Option 2</option>
-                      <option value="4">Option 3</option>
-                    </select>
-
-                  </div>
-                </div>
-
-                
-
-                
-
-                
-
-                <div class="form-outline mb-4">
-                  <input type="text" id="form3Example97" class="form-control form-control-lg" />
-                  <label class="form-label" for="form3Example97">Email ID</label>
                 </div>
 
                 <div class="d-flex justify-content-end pt-3">
                   
-                  <button type="button" class="btn btn-warning btn-lg ms-2">Submit form</button>
+                  <router-link to="/Login">
+                    <button type="button"  class="btn btn-danger btn-lg ms-2" >Cancel</button>
+                    </router-link>
+                  <button type="button" class="btn btn-primary btn-lg ms-2">Submit form</button>
                 </div>
 
               </div>

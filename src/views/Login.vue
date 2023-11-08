@@ -43,6 +43,7 @@
           </div>
           <div class="col-lg-8">
             <div class="card-body py-5 px-md-5">
+              <h3 class="mb-5 text-uppercase">Sign In</h3>
               <form>
                 <!-- Email input -->
                 <div class="form-outline mb-4">
@@ -73,7 +74,16 @@
                 </div>
 
                 <!-- Submit button -->
-                <button type="button" class="btn btn-primary btn-block mb-4">Sign in</button>
+                <div class="d-flex align-items-center justify-content-center pb-4">
+                  <button type="button" class="btn btn-primary btn-block mb-4">Sign in</button>
+                </div>
+                
+                <div class="d-flex align-items-center justify-content-center pb-4">
+                    <p class="mb-0 me-2">Don't have an account?</p>
+                    <router-link to="/Signup">
+                    <button type="button"  class="btn btn-outline-danger" >Sign Up</button>
+                    </router-link>
+                  </div>
               </form>
             </div>
           </div>
