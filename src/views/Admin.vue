@@ -2,7 +2,6 @@
     <div id="wrapper">
       <sidebar />
       <topbar />
-      <tables />
       <charts />
     </div>
   </template>
@@ -12,7 +11,6 @@
   import { defineComponent } from 'vue';
   import sidebar from '../components/sidebar.vue';
   import topbar from '../components/topbar.vue';
-  import tables from '../components/tables.vue';
   import charts from '../components/charts.vue';
   
   export default {
@@ -20,7 +18,6 @@
     components: {
       sidebar,
       topbar,
-      tables,
       charts,
     },
   
